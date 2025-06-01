@@ -28,5 +28,3 @@ This project demonstrates a full **CRUD (Create, Read, Update, Delete)** applica
 
 ---
 
-## 📁 Project Structure
-
